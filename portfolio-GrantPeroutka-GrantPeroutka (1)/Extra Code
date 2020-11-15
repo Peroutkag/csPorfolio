@@ -1,0 +1,19 @@
+ //second menu
+ <span class="arrow">&#x25B6;</span>
+ <ul class="submenu-2">
+                            <li>
+                                <a href="#">chemoTaxis</a>
+                            </li>
+                            <li>
+                                <a href="#">Maps</a>
+                            </li>
+
+                            <li>
+                                <a href="#">StacksNQueues</a>
+                            </li>
+                        </ul>
+
+ <div class="another-container">
+  This text is the content of the box.
+     <h2><img id="projectimg" src="../images/IMG_0611.jpg"alt= "scene" width ="500" length ="500" > </h2>
+ </div>
